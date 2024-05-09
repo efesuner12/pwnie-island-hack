@@ -2,6 +2,8 @@
 
 A Windows DLL for hacking Pwnie Island 3 (https://www.pwnadventure.com/) 
 
+Developed as a module assignment @ The University of Birmingham (LH Security of Real World Systems)
+
 ## Contributors
 - Efe Suner
 - Axel Yalmaz
